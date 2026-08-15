@@ -1,6 +1,6 @@
 # DevPulse
 
-An end-to-end ETL data pipeline that ingests live GitHub repository data, processes it through a Bronze → Silver → Gold medallion architecture on Databricks, and surfaces analytics on what makes open-source projects popular.
+An end-to-end ETL data pipeline that ingests live GitHub repository data, processes it through a Bronze → Silver → Gold medallion architecture on Databricks, and surfaces analytics on development trends.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-containerized-2496ED?logo=docker&logoColor=white)
